@@ -3,8 +3,8 @@
 What this text is and what it is not: This text is intended to introduce the reader to the basics of the Typescript programming language in the sense that they will be able to write minimal types of programs and run the code. It is not intended to go into advanced topics like concurrency and use of pointers, data structures, object oriented programming, testing and debugging techniques and other software engineering principals.
 
 The programs are intended to be run in the terminal as that is common to most operating systems. Linux and Mac come preinstalled with a terminal. Windows may or may not have it pre-installed. "Windows Terminal" can be installed from the Microsoft store. Just do a search for it and install it.
-## Installation and Setup of Zig
-To setup Typescript for use, nativagate to the deno website and locate an appropriate package manager for your operating system. Install and follow the directions on how to perform further settings for use. If the language has been installed properly you will be able to type the following command in the terminal command line and receive the response shown:
+## Installation and Setup of Deno (Typescript runtime)
+To setup Deno for use, nativagate to the Deno website and locate an appropriate package manager for your operating system. Install and follow the directions on how to perform further settings for use. If the language has been installed properly you will be able to type the following command in the terminal command line and receive the response shown:
 ```
 $ deno --version
 v8 12.9.202.13-rusty
